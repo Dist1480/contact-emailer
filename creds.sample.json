@@ -1,7 +1,7 @@
-{
+{    
     "type": "oauth2",
-    "user": "",
-    "clientId": "",
-    "clientSecret": "",
-    "refreshToken": ""
+    "user": "matteohome13@gmail.com",
+    "clientId": "987606296217-jhu49bp5njqm9244f92eultl0fhgpmgf.apps.googleusercontent.com",
+    "clientSecret": "XF7prnNUxsroEARvNa6V9OmU",
+    "refreshToken": "1//04_CnnHc7SZ4KCgYIARAAGAQSNwF-L9IrY-r8JEojlgKdhO8nvn0K16YYpfreuAUMRuSw-S8EezStCcQ4rqVIVA9Jx356FHzu3sA"
 }
